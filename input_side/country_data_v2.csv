@@ -1,0 +1,26 @@
+﻿Country,Capital,GDP,Population ,Pop_Growth_Rate ,Life_Expectancy,Median_Age,Urban_Population,Continent,Main_Official_Language,Currency
+Brazil,Brasília,2332,216.4,0.4,76,34.0,88.0,South America,Portuguese,Brazilian Real
+India,New Delhi,4335,1442,0.9,72,28.1,36.3,Asia,"Hindi, English",Indian Rupee
+Germany,Berlin,4591,83.3,-0.4,81,45.7,77.5,Europe,German,Euro
+Japan,Tokyo,4110,122.9,-0.5,84,48.7,92.0,Asia,Japanese,Japanese Yen
+Mexico,Mexico City,1996,129.3,0.9,75,31.5,81.3,North America,Spanish,Mexican Peso
+Indonesia,Jakarta,1469,279.8,0.8,71,30.1,58.7,Asia,Indonesian,Indonesian Rupiah
+South Africa,Pretoria,420,60.4,1.3,67,28.1,67.4,Africa,11 official languages,South African Rand
+Argentina,Buenos Aires,632,45.8,0.3,77,32.4,92.5,South America,Spanish,Argentine Peso
+Nigeria,Abuja,395,229.2,2.1,54,18.1,53.6,Africa,English,Nigerian Naira
+Vietnam,Hanoi,465,99.5,0.7,74,32.7,39.0,Asia,Vietnamese,Vietnamese Dong
+Australia,Canberra,1838,26.6,0.9,83,37.9,86.6,Oceania,English,Australian Dollar
+Canada,Ottawa,2242,39.1,1.2,82,40.6,81.7,North America,"English, French",Canadian Dollar
+France,Paris,3132,64.8,0.2,83,42.1,81.2,Europe,French,Euro
+UK,London,3513,67.9,0.7,81,40.5,84.4,Europe,English,Pound Sterling
+USA,"Washington, D.C.",28781,341.8,0.6,78,38.3,83.1,North America,English,US Dollar
+Egypt,Cairo,395,114.5,1.7,72,25.1,43.1,Africa,Arabic,Egyptian Pound
+Thailand,Bangkok,572,71.7,-0.1,76,40.1,52.8,Asia,Thai,Thai Baht
+Turkey,Ankara,1118,87.3,0.2,78,32.3,77.5,Asia,"Europe, Turkish",Turkish Lira
+Poland,Warsaw,842,37.9,0.0,77,42.0,60.1,Europe,Polish,Polish Zloty
+Netherlands,Amsterdam,1120,18.1,0.4,82,43.1,93.2,Europe,Dutch,Euro
+Sweden,Stockholm,627,10.6,0.6,83,41.2,88.7,Europe,Swedish,Swedish Krona
+Spain,Madrid,1600,47.9,0.2,83,45.5,80.5,Europe,Spanish,Euro
+Saudi Arabia,Riyadh,1115,32.3,0.3,78,32.1,84.3,Asia,Arabic,Saudi Riyal
+Chile,Santiago,303,19.7,0.6,81,36.6,88.0,South America,Spanish,Chilean Peso
+Colombia,Bogotá,449,52.3,1.1,78,32.4,81.3,South America,Spanish,Colombian Peso
