@@ -1,4 +1,4 @@
-# Pipelines Apache Beam / Diplomado en Data Engineer 
+# Pipeline Apache Beam / Diplomado en Data Engineer 
 
 **Autor:** Carlos Sáez  
 
