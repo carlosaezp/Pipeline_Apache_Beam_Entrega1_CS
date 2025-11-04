@@ -1,8 +1,8 @@
-# 🎓– Ejercicio Pipeline Apache Beam -  Diplomado en Data Engineer 
+# – Ejercicio Pipeline Apache Beam -  Diplomado en Data Engineer 
 
 **Autor:** Carlos Sáez  
 ---
-## 🚀 Propósito del Pipeline
+## Propósito del Pipeline
 
 La **Helicopter Racing League (HRL)** es una liga internacional de carreras de helicópteros que transmite sus competencias con métricas de telemetría e interacción de los fans (*Fan Engagement*).  
 
@@ -37,9 +37,9 @@ PIPELINE_APACHE_BEAM_ENTREGA1_CS/
 
 ---
 
-## ⚙️ Instrucciones para su ejecución
+## Instrucciones para su ejecución
 
-### 💻 Ejecución en DevContainer
+### Ejecución en DevContainer
 
 #### **1. Requisitos previos**
 - VS Code + extensión **Dev Containers** (o GitHub Codespaces).  
@@ -62,7 +62,7 @@ python src/pipeline.py --runner DirectRunner --output_folder output --output_pre
 
 ---
 
-### 🧩 Ejecución en Google Colab
+### Ejecución en Google Colab
 
 #### **1. Carga de archivos**
 
@@ -97,7 +97,7 @@ uploaded = files.upload()
 
 ---
 
-## 🧠 Lógica de transformación
+## Lógica de transformación
 
 El pipeline implementa un flujo **ETL (Extract – Transform – Load)** con **Apache Beam**, para limpiar, estandarizar y enriquecer los datos de interacción de los fans de la HRL.
 
@@ -128,7 +128,7 @@ El pipeline implementa un flujo **ETL (Extract – Transform – Load)** con **A
 
 ---
 
-## ✅ Resultado final
+## Resultado final
 
 El pipeline genera el archivo:
 
