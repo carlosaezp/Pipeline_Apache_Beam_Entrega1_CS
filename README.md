@@ -1,8 +1,6 @@
-# Diplomado en Data Engineer – Módulo 8: Data Pipelines y Plataformas de Visualización
+# Pipelines Apache Beam / Diplomado en Data Engineer 
 
 **Autor:** Carlos Sáez  
-**Profesor:** Claudio Torres Fonseca  
-**Fecha de entrega:** 05 de noviembre de 2025  
 
 ---
 
