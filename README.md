@@ -18,6 +18,8 @@ El propósito de este pipeline es **integrar, limpiar y enriquecer** los datos d
 PIPELINE_APACHE_BEAM_ENTREGA1_CS/
 │
 ├── .devcontainer/                 # Configuración del entorno en VS Code / Docker
+│   ├── Dockerfile                 # Define la imagen base y dependencias del entorno (Python, Beam, etc.)
+│   └── devcontainer.json          # Configura VS Code para abrir el proyecto dentro del contenedor Docker
 │
 ├── input/                         # Archivos JSON (fuente principal)
 │   ├── cup25_fan_engagement-000-of-001.json
@@ -31,10 +33,11 @@ PIPELINE_APACHE_BEAM_ENTREGA1_CS/
 │   └── sample0-00000-of-00001.jsonl
 │
 ├── src/                           # Código fuente
-│   └── pipeline.py
+│   └── pipeline.py                # Pipeline ETL con Apache Beam
 │
-├── requirements.txt               # Dependencias del proyecto
-└── README.md                      # Este archivo
+├── requirements.txt               # Dependencias del proyecto (Beam, pandas, etc.)
+└── README.md                      # Documentación e instrucciones de ejecución
+
 ```
 
 ---
@@ -82,7 +85,7 @@ uploaded = files.upload()
 
 #### **2. Ubicar carpeta**
 ```bash
-%cd /content/Pipeline_Apache_Beam_Entrega1_CS
+%cd /content/Pipeline_Apache_Beam_Entrega1_CS-main
 ```
 
 #### **3. Instalar dependencias**
