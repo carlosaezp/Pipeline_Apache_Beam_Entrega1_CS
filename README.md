@@ -1,4 +1,4 @@
-# – Ejercicio Pipeline Apache Beam -  Diplomado en Data Engineer 
+# Ejercicio Pipeline Apache Beam / Diplomado en Data Engineer 
 
 **Autor:** Carlos Sáez  
 ---
