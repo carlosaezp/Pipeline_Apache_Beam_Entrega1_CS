@@ -1,11 +1,7 @@
-# 🎓 Diplomado en Data Engineer – Módulo 8 Data Pipelines y Plataformas de Visualización
+# 🎓 Diplomado en Data Engineer – Ejercicio Pipeline Apache Beam 
 
 **Autor:** Carlos Sáez  
-**Profesor:** Claudio Torres Fonseca  
-**Fecha de entrega:** 05 de noviembre de 2025  
-
 ---
-
 ## 🚀 Propósito del Pipeline
 
 La **Helicopter Racing League (HRL)** es una liga internacional de carreras de helicópteros que transmite sus competencias con métricas de telemetría e interacción de los fans (*Fan Engagement*).  
