@@ -1,4 +1,4 @@
-# 🎓 Diplomado en Data Engineer – Módulo 8: Data Pipelines y Plataformas de Visualización
+# 🎓 Diplomado en Data Engineer – Data Pipelines y Plataformas de Visualización
 
 **Autor:** Carlos Sáez  
 **Profesor:** Claudio Torres Fonseca  
